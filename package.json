@@ -1,0 +1,22 @@
+{
+  "name": "node-tp",
+  "version": "1.0.0",
+  "description": "tp-web-production-backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DIOLINK/TP-WEB-NODE.git"
+  },
+  "keywords": [
+    "tp-web-node"
+  ],
+  "author": "Roger Bogado Coverzola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIOLINK/TP-WEB-NODE/issues"
+  },
+  "homepage": "https://github.com/DIOLINK/TP-WEB-NODE#readme"
+}
