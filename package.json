@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/DIOLINK/TP-WEB-NODE/issues"
   },
-  "homepage": "https://github.com/DIOLINK/TP-WEB-NODE#readme"
+  "homepage": "https://github.com/DIOLINK/TP-WEB-NODE#readme",
+  "dependencies": {
+    "console-menu": "^0.1.0",
+    "prompt-sync": "^4.2.0"
+  }
 }
